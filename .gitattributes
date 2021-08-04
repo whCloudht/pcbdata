@@ -1,0 +1,2 @@
+data.rar filter=lfs diff=lfs merge=lfs -text
+result.rar filter=lfs diff=lfs merge=lfs -text
